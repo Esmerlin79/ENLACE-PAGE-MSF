@@ -179,10 +179,23 @@ p{
         display: none;
     }
 }
-.check-valid{
-    display: flex;
-    align-items: center;
-    margin: 1rem 0;
+.recovery-singn{
+    padding: 10px;
+}
+.clr-gray-a {
+    padding: 15px;
+    margin-left: -11px;
+}
+.clr-gray-a a{
+    color: #858585;
+    text-decoration: none;
+}
+.clr-gray-a a:hover{
+    text-decoration: underline;
+}
+.reg-sign {
+    color: #013671;
+    text-decoration: none;
 }
 .check-valid span:checked{
     color: red;
