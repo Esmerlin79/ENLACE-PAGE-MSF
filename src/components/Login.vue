@@ -17,7 +17,7 @@
       
                 <div class="recovery-singn">
             <p class="clr-gray-a"><a href="#">Olvidaste tu Contraseña?</a></p>
-            <p class="clr-gray">Todavia no tienes tu cuenta? <a href="/register" class="reg-sign">Registrate</a></p>
+            <p class="clr-gray">Todavía no tienes tu cuenta? <a href="/register" class="reg-sign">Registrate</a></p>
                 </div> 
                    
                 <a href="#"  class="btn btn-blue">Ingresar</a>
